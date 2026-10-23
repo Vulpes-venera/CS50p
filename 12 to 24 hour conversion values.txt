@@ -1,0 +1,9 @@
+Change to 00:00
+12:01 AM to 12:59 AM: 
+Subtract 12 hours (e.g., 12:35 AM becomes 00:35)
+
+1:00 AM to 12:59 PM: 
+Keep the numbers the same. Add a leading zero if the hour is single-digit (e.g., 7:45 AM becomes 07:45).
+
+1:00 PM to 11:59 PM: 
+Add 12 to the hour (e.g., 3:00 PM becomes 15:00, 11:59 PM becomes 23:59).
