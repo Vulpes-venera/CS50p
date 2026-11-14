@@ -8,6 +8,7 @@ for c in str1:
     else:
         list1.append(c)
 
+
 str2 = "".join(list1)
 str3 = str2.replace(" ","_")
 print("snake_case:",str3.lower())

@@ -12,3 +12,4 @@ for i in user_in:
 
 #print final word without list brackets
 final_word = print("".join(list1))
+print

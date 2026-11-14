@@ -6,6 +6,8 @@ def main():
     temp_ti = datetime.strptime(clean_time, "%I:%M %p")
     new_time = temp_ti.strftime("%H:%M")
     hours = convert(new_time)
+    print(hours)
+
     if 8.0 >= hours >= 7.0:
         print("breakfast time")
     elif 14.0 >= hours >= 13.0:
